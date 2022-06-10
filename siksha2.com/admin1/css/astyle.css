@@ -1,0 +1,23 @@
+.custom-nav .custom-nav-item a{
+    color: #fff !important;
+}
+
+.col-md-9 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+
+
+
+
+textarea.form-control {
+    height: auto;
+}
+.note-popover .popover-content, .card-header.note-toolbar {
+    padding: 0 0 5px 5px;
+    margin: 0;
+    background: #f5f5f5;
+}
+

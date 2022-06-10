@@ -1,0 +1,68 @@
+.card-item {
+  width: 80%;
+  margin-left: 20%;
+}
+
+.card-header.bg-white {
+  background-color: #000 !important;
+  color: #fff;
+}
+
+.card:hover {
+  transform: scale(1.04);
+}
+
+.card {
+  overflow: hidden;
+  transition: all 0.9s ease;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  /* background-color: #333; */
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #a2a2a2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid #000;
+}
+
+.topnav a.active {
+  color: #000;
+  border-bottom: 3px solid #000;
+}
+.topnav2 {
+  /* background-color: #333; */
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav2 a {
+  float: left;
+  display: block;
+  color: #8a22c3;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav2 a:hover {
+  border-bottom: 3px solid #8a22c3;
+}
+
+.topnav2 a.active {
+  border-bottom: 3px solid #8a22c3;
+}

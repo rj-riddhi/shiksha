@@ -1,0 +1,99 @@
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+.custom-nav .custom-nav-item a {
+  color: #fff !important;
+}
+
+.navigation-bar {
+  display: block !important;
+}
+
+.side-nav {
+  width: 20%;
+  position: fixed;
+  top: 0;
+  left: 10;
+  bottom: 0;
+  margin-left: 0.5%;
+  background: #f2f3f5;
+}
+
+.sidebar-sticky {
+  padding-top: 40px;
+}
+
+.card-item {
+  width: 80%;
+  margin-left: 20%;
+}
+
+.list-of-course {
+  margin-left: 20%;
+}
+
+.form-of-space {
+  margin-left: 25%;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 10px 0 rgb(0 0 0 / 15%);
+}
+
+.bg-secondary {
+  background: #000000 !important;
+}
+
+.btn-secondary {
+  color: #fd0404;
+  background-color: #ffffff;
+}
+
+.nav-link {
+  color: #000;
+}
+.btn-danger {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.card-header.bg-white {
+  background-color: #000 !important;
+  color: #fff;
+}
+
+.bg-light {
+  background: #f2f3f5 !important;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+  color: #000;
+}
+
+.btn-danger:hover {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.btn-info {
+  transition: 0.5s;
+}
+.dropdowns {
+  display: inline-block;
+}
+
+.card:hover {
+  transform: scale(1.04);
+}
+
+.card {
+  overflow: hidden;
+  transition: all 0.9s ease;
+}
